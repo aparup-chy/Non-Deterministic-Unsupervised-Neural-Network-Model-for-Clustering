@@ -399,9 +399,7 @@ This project is submitted as coursework for CSE425 - Neural Networks at BRAC Uni
 ## 📧 Contact
 
 **Aparup Chowdhury**  
-Student ID: 22101229  
-Section: 03  
-Course: CSE425 - Neural Networks
+*Email:* aparupchowdhury79@gmail.com
 
 For questions or discussions about this project, please contact through the university portal.
 
