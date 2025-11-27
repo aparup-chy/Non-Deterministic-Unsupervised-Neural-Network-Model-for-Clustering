@@ -398,10 +398,10 @@ This project is submitted as coursework for CSE425 - Neural Networks at BRAC Uni
 
 ## 📧 Contact
 
+For questions or discussions about this project, please contact me.
+
 **Aparup Chowdhury**  
 *Email:* aparupchowdhury79@gmail.com
-
-For questions or discussions about this project, please contact through the university portal.
 
 ---
 
