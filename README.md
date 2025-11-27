@@ -3,9 +3,6 @@
 A comprehensive implementation of a Variational Autoencoder (VAE) for unsupervised clustering of handwritten digits from the MNIST dataset, demonstrating uncertainty quantification and probabilistic latent representations.
 
 **Course:** CSE425 - Neural Networks  
-**Student:** Aparup Chowdhury  
-**ID:** 22101229  
-**Section:** 03  
 **Instructor:** Mr. Moin Mostakim
 
 ---
